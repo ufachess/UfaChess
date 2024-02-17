@@ -1,11 +1,3 @@
-/**
-* Template Name: BizLand
-* Updated: Sep 18 2023 with Bootstrap v5.3.2
-* Template URL: https://bootstrapmade.com/bizland-bootstrap-business-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -975,7 +967,8 @@ section {
 --------------------------------------------------------------*/
 .testimonials {
   padding: 80px 0;
-  background: url("https://thumb.tildacdn.com/tild6165-3836-4964-a239-393663393538/-/format/webp/0192.jpg") no-repeat;
+  background: url("https://thumb.tildacdn.com/tild6165-3836-4964-a239-393663393538/-/format/webp/0192.jpg")
+    no-repeat;
   background-position: center center;
   background-size: cover;
   position: relative;
@@ -1464,13 +1457,12 @@ section {
 .faq .faq-list .question {
   display: block;
   position: relative;
-  font-family: #106eea;
   font-size: 18px;
   line-height: 24px;
   font-weight: 400;
   padding-left: 25px;
   cursor: pointer;
-  color: #0d58ba;
+  color: #995e00;
   transition: 0.3s;
 }
 
@@ -1495,7 +1487,7 @@ section {
 }
 
 .faq .faq-list .collapsed:hover {
-  color: #106eea;
+  color: #995e00;
 }
 
 .faq .faq-list .collapsed .icon-show {
@@ -1523,7 +1515,7 @@ section {
   color: #995e00;
   border-radius: 50%;
   padding: 8px;
-  border: 2px dotted #b3d1fa;
+  border: 2px dotted #995e00;
 }
 
 .contact .info-box h3 {
